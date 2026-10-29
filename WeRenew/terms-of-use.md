@@ -1,14 +1,14 @@
 # 用户协议 / Terms of Use — WeRenew / 家订本
 
-> 与隐私政策一并托管为静态 HTTPS 页。替换 `` `[运营者名称]` `` / `` `[联系邮箱]` `` 后发布。  
+> 与隐私政策一并托管为静态 HTTPS 页。运营者 / 联系邮箱已写入（Lisha Gan / luanlzsn@gmail.com）。  
 > 本文不构成法律意见；上架地区适用法律优先。
 
 ---
 
 **生效日 / Effective date:** 2026-10-29  
 **产品 / Product:** WeRenew（家订本）  
-**运营者 / Operator:** `[运营者名称]`  
-**联系 / Contact:** `[联系邮箱]`
+**运营者 / Operator:** Lisha Gan  
+**联系 / Contact:** luanlzsn@gmail.com
 
 ---
 
@@ -57,13 +57,13 @@
 
 ### 8. 免责声明
 
-本应用按「现状」提供。在法律允许的最大范围内，`[运营者名称]` 不对因使用或无法使用本应用而导致的间接、附带、特殊或后果性损害负责（包括但不限于账单漏记、续费提醒未送达、iCloud 同步延迟）。提醒依赖系统本地通知与你授予的权限，**不保证**一定送达。
+本应用按「现状」提供。在法律允许的最大范围内，Lisha Gan 不对因使用或无法使用本应用而导致的间接、附带、特殊或后果性损害负责（包括但不限于账单漏记、续费提醒未送达、iCloud 同步延迟）。提醒依赖系统本地通知与你授予的权限，**不保证**一定送达。
 
 本应用**不是**财务、税务或投资建议工具。
 
 ### 9. 知识产权
 
-本应用的名称、界面、代码与文档（除你录入的内容及 Apple 系统组件外）归 `[运营者名称]` 或其许可方所有。未获书面许可，不得复制商标用于误导性推广。
+本应用的名称、界面、代码与文档（除你录入的内容及 Apple 系统组件外）归 Lisha Gan 或其许可方所有。未获书面许可，不得复制商标用于误导性推广。
 
 ### 10. 终止
 
@@ -75,7 +75,7 @@
 
 ### 12. 联系
 
-协议相关问题：`[联系邮箱]`。
+协议相关问题：luanlzsn@gmail.com。
 
 ---
 
@@ -116,11 +116,11 @@ You are responsible for content you enter. Do not enter unlawful or infringing m
 
 ### 8. Disclaimer
 
-THE APP IS PROVIDED “AS IS.” TO THE MAXIMUM EXTENT PERMITTED BY LAW, `[运营者名称]` IS NOT LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES, INCLUDING MISSED BILLS OR NOTIFICATIONS. Reminders depend on on-device notifications and your permission grants and are **not guaranteed**. The App is not financial, tax, or investment advice.
+THE APP IS PROVIDED “AS IS.” TO THE MAXIMUM EXTENT PERMITTED BY LAW, Lisha Gan IS NOT LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES, INCLUDING MISSED BILLS OR NOTIFICATIONS. Reminders depend on on-device notifications and your permission grants and are **not guaranteed**. The App is not financial, tax, or investment advice.
 
 ### 9. Intellectual property
 
-The App’s name, UI, code, and docs (excluding your content and Apple components) belong to `[运营者名称]` or its licensors.
+The App’s name, UI, code, and docs (excluding your content and Apple components) belong to Lisha Gan or its licensors.
 
 ### 10. Termination
 
@@ -132,7 +132,7 @@ We may update these Terms and the effective date on this page. Continued use aft
 
 ### 12. Contact
 
-Questions: `[联系邮箱]`. Operator: `[运营者名称]`.
+Questions: luanlzsn@gmail.com. Operator: Lisha Gan.
 
 ---
 
