@@ -1,7 +1,7 @@
 # 隐私政策 / Privacy Policy — WeRenew / 家订本
 
 > 可直接托管为静态 HTML/Markdown 页（见同目录 `README.md` 的 GitHub Pages 说明）。  
-> 将下方「运营者名称」「联系邮箱」换成真实信息后发布，并把 HTTPS URL 填入 App Store Connect 与应用内设置。  
+> 运营者与联系邮箱已填写（与 App Store 卖家及既有 playku-legal 一致）。请把本页 HTTPS URL 填入 App Store Connect 与应用内设置。  
 > **诚实声明**：无自建业务后端；不接银行；购买收据由 Apple 处理。  
 > **不要**在页脚或正文添加未取得的合规徽章（如虚假 ISO/SOC/「已认证 GDPR」印章）。遵守适用法律是运营者责任，本文不构成法律意见。
 
@@ -9,8 +9,8 @@
 
 **生效日 / Effective date:** 2026-10-29  
 **产品 / Product:** WeRenew（中文名：家订本）  
-**运营者 / Operator:** `[运营者名称]`  
-**联系 / Contact:** `[联系邮箱]`
+**运营者 / Operator:** Lisha Gan  
+**联系 / Contact:** luanlzsn@gmail.com
 
 本页同时提供中文与英文；若解释冲突，以你分发地区适用法律及你与用户之间的约定为准；中文为主市场时可优先中文表述。
 
@@ -74,7 +74,7 @@ CloudKit 与 App Store 由 Apple 在全球基础设施上运营；数据位置�
 
 ### 10. 联系我们
 
-关于隐私问题，请发送邮件至：**`[联系邮箱]`**。
+关于隐私问题，请发送邮件至：**luanlzsn@gmail.com**。
 
 ---
 
@@ -131,13 +131,13 @@ We may update this policy and the effective date on this page; material changes 
 
 ### 10. Contact
 
-Privacy questions: **`[联系邮箱]`**. Operator: **`[运营者名称]`**.
+Privacy questions: **luanlzsn@gmail.com**. Operator: **Lisha Gan**.
 
 ---
 
 ## 托管提示（非政策正文）
 
 1. 按 `legal/README.md` 用 GitHub Pages 发布本文件（建议路径 `/WeRenew/privacy`）。  
-2. 替换所有 `` `[运营者名称]` `` / `` `[联系邮箱]` `` 占位。  
+2. 运营者 / 联系邮箱已写入（Lisha Gan / luanlzsn@gmail.com）。  
 3. App Store Connect 与应用内隐私 URL 必须指向**已上线** HTTPS 页面，禁止继续使用 `example.com`。  
 4. App Store「App 隐私」问卷勾选结果须与本文一致。  
