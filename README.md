@@ -8,3 +8,5 @@ Hosted via GitHub Pages (`docs/`).
 - VouchKit Terms: `/VouchKit/terms/`
 - PDFSeal Privacy: `/PDFSeal/privacy/`
 - PDFSeal Terms: `/PDFSeal/terms/`
+- InkSeek Privacy: `/InkSeek/privacy/`
+- InkSeek Terms: `/InkSeek/terms/`
