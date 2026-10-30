@@ -6,3 +6,5 @@ Hosted via GitHub Pages (`docs/`).
 - WeRenew Terms: `/WeRenew/terms/`
 - VouchKit Privacy: `/VouchKit/privacy/`
 - VouchKit Terms: `/VouchKit/terms/`
+- PDFSeal Privacy: `/PDFSeal/privacy/`
+- PDFSeal Terms: `/PDFSeal/terms/`
