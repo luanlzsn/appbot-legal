@@ -1,0 +1,84 @@
+# 隐私政策 / Privacy Policy — ChordLab / 和弦室
+
+**生效日 / Effective date:** 2026-10-30  
+**产品 / Product:** ChordLab（中文名：和弦室）  
+**运营者 / Operator:** Lisha Gan  
+**联系 / Contact:** luanlzsn@gmail.com
+
+本页同时提供中文与英文。
+
+---
+
+## 中文
+
+### 1. 我们是谁
+和弦室（ChordLab）是一款帮助你进行**离线**音高检测、和弦听辨、调音、节拍练习与 MIDI 监视的 iOS 应用。我们**不运营用于存储你音频或练习数据的自建业务服务器**。
+
+### 2. 我们收集哪些信息
+就开发者可控的「收集并传到开发者服务器」而言：**我们基本上不收集你的个人信息或音频内容。**
+
+| 数据 | 说明 |
+|------|------|
+| 麦克风音频 | 仅在设备本地用于音高/和弦检测；**不会上传**到我们的服务器（我们无此服务器）。 |
+| MIDI 输入 | 仅在本地显示；不上传。 |
+| 应用内购买 | 由 **Apple** 处理。我们通过 StoreKit 获知是否解锁 Pro。 |
+| 诊断 | MVP **未接入**第三方广告或分析 SDK。 |
+| 账号 | **无**开发者自建账号。 |
+
+### 3. 如何使用
+本地音频缓冲仅用于实时检测；节拍器点击在本地合成；Pro 状态用于解锁调弦/扩展和弦/MIDI/节拍范围。
+
+### 4. 共享与第三方
+- **Apple**：App Store、StoreKit、系统框架。  
+- 我们不向广告商出售个人信息。
+
+### 5. 保留与删除
+卸载应用通常删除本地数据。Pro 与 Apple ID 购买记录关联。
+
+### 6. 儿童
+未专门面向儿童设计。
+
+### 7. 你的选择
+可拒绝麦克风权限（听辨/调音不可用，节拍器等仍可用）；可不购买 Pro。
+
+### 8. 政策更新
+更新后调整本页生效日。
+
+### 9. 联系我们
+**luanlzsn@gmail.com**
+
+---
+
+## English
+
+### 1. Who we are
+ChordLab is an offline iOS practice lab for pitch detection, chord listening, tuning, metronome, and MIDI monitoring. We do **not** operate a business server that stores your audio.
+
+### 2. What we collect
+For developer-controlled collection to our servers: **we essentially do not collect your personal data or audio.**
+
+| Data | Note |
+|------|------|
+| Microphone audio | Processed **on-device** only for pitch/chord detection; not uploaded to us. |
+| MIDI | Shown locally only. |
+| In-app purchases | Handled by **Apple** via StoreKit. |
+| Analytics/ads | **None** in MVP. |
+| Accounts | **No** developer-operated accounts. |
+
+### 3. Use
+On-device buffers for realtime detection; local click synthesis; Pro flag for unlocks.
+
+### 4. Sharing
+Apple provides store/payment infrastructure. We do not sell personal information to advertisers.
+
+### 5. Retention
+Deleting the app typically removes local data. Pro follows Apple ID purchase records.
+
+### 6. Children
+Not directed at children.
+
+### 7. Choices
+Deny mic permission; stay on free tier.
+
+### 8. Contact
+**luanlzsn@gmail.com**
