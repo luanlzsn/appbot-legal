@@ -10,3 +10,5 @@ Hosted via GitHub Pages (`docs/`).
 - PDFSeal Terms: `/PDFSeal/terms/`
 - InkSeek Privacy: `/InkSeek/privacy/`
 - InkSeek Terms: `/InkSeek/terms/`
+- CellarKit Privacy: `/CellarKit/privacy/`
+- CellarKit Terms: `/CellarKit/terms/`
