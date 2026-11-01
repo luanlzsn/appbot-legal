@@ -12,3 +12,5 @@ Hosted via GitHub Pages (`docs/`).
 - InkSeek Terms: `/InkSeek/terms/`
 - CellarKit Privacy: `/CellarKit/privacy/`
 - CellarKit Terms: `/CellarKit/terms/`
+- OutfitKit Privacy: `/OutfitKit/privacy/`
+- OutfitKit Terms: `/OutfitKit/terms/`
