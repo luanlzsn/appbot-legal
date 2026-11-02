@@ -14,3 +14,5 @@ Hosted via GitHub Pages (`docs/`).
 - CellarKit Terms: `/CellarKit/terms/`
 - OutfitKit Privacy: `/OutfitKit/privacy/`
 - OutfitKit Terms: `/OutfitKit/terms/`
+- SunShot Privacy: `/SunShot/privacy/`
+- SunShot Terms: `/SunShot/terms/`
