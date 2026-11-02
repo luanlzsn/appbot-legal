@@ -16,3 +16,5 @@ Hosted via GitHub Pages (`docs/`).
 - OutfitKit Terms: `/OutfitKit/terms/`
 - SunShot Privacy: `/SunShot/privacy/`
 - SunShot Terms: `/SunShot/terms/`
+- TapeKit Privacy: `/TapeKit/privacy/`
+- TapeKit Terms: `/TapeKit/terms/`
