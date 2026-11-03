@@ -18,3 +18,9 @@ Hosted via GitHub Pages (`docs/`).
 - SunShot Terms: `/SunShot/terms/`
 - TapeKit Privacy: `/TapeKit/privacy/`
 - TapeKit Terms: `/TapeKit/terms/`
+- FlashDeck Privacy: `/FlashDeck/privacy/`
+- FlashDeck Terms: `/FlashDeck/terms/`
+- RestKit Privacy: `/RestKit/privacy/`
+- RestKit Terms: `/RestKit/terms/`
+- TrailKit Privacy: `/TrailKit/privacy/`
+- TrailKit Terms: `/TrailKit/terms/`
