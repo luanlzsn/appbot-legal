@@ -24,3 +24,5 @@ Hosted via GitHub Pages (`docs/`).
 - RestKit Terms: `/RestKit/terms/`
 - TrailKit Privacy: `/TrailKit/privacy/`
 - TrailKit Terms: `/TrailKit/terms/`
+- SafeSharePhoto Privacy: `/SafeSharePhoto/privacy/`
+- SafeSharePhoto Terms: `/SafeSharePhoto/terms/`
