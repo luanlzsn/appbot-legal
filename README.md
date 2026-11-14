@@ -20,6 +20,8 @@ Hosted via GitHub Pages (`docs/`).
 - TapeKit Terms: `/TapeKit/terms/`
 - FlashDeck Privacy: `/FlashDeck/privacy/`
 - FlashDeck Terms: `/FlashDeck/terms/`
+- Intervals Privacy: `/Intervals/privacy/`
+- Intervals Terms: `/Intervals/terms/`
 - RestKit Privacy: `/RestKit/privacy/`
 - RestKit Terms: `/RestKit/terms/`
 - TrailKit Privacy: `/TrailKit/privacy/`
